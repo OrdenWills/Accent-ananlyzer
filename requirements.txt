@@ -21,3 +21,4 @@ typing-extensions==4.7.1
 cffi==1.15.1
 pycparser==2.21
 uvicorn
+gunicorn
